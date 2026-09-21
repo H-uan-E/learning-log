@@ -128,3 +128,15 @@ a.out
 # 编辑器目录
 .vscode/
 .idea/
+# 编译产物
+build/
+*.o
+*.out
+a.out
+# vim 临时文件
+*.swp
+*.swo
+*~
+# 编辑器目录
+.vscode/
+.idea/
